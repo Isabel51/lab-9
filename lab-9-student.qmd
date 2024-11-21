@@ -1,6 +1,6 @@
 ---
 title: "Lab 9: Data Simulation Exploration"
-author: "Your name here!"
+author: "Isabel Villafuerte"
 format: html
 editor: source
 embed-resources: true
